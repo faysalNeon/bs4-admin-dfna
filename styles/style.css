@@ -2062,64 +2062,64 @@ img.image-xl {
 #mobile-menu .left-nav-toggle {
   padding-top: 8px;
 }
-.luna-nav.nav {
+.DFNA-nav.nav {
   padding-top: 15px;
   font-size: 0.91rem;
   flex-direction: column;
 }
-.luna-nav.nav .nav-second {
+.DFNA-nav.nav .nav-second {
   flex-direction: column;
   flex-wrap: nowrap;
 }
-.luna-nav.nav li > a,
-.luna-nav.nav .nav-category {
+.DFNA-nav.nav li > a,
+.DFNA-nav.nav .nav-category {
   padding: 8px 15px 8px 25px;
   margin: 0 0;
 }
-.luna-nav.nav .nav-info {
+.DFNA-nav.nav .nav-info {
   margin-top: 50px;
   padding: 20px 25px 25px 25px;
   font-size: 12px;
   background-color: #24262d;
 }
-.luna-nav.nav .nav-info i {
+.DFNA-nav.nav .nav-info i {
   font-size: 34px;
 }
-.luna-nav.nav .nav-second li > a {
+.DFNA-nav.nav .nav-second li > a {
   padding-left: 40px;
 }
-.luna-nav.nav li.active .nav-second li > a {
+.DFNA-nav.nav li.active .nav-second li > a {
   padding-left: 40px;
   border-left: none;
   color: #848c94;
 }
-.luna-nav.nav li.active .nav-second li.active a {
+.DFNA-nav.nav li.active .nav-second li.active a {
   padding-left: 34px;
   border-left: 6px solid #c37e08;
   color: #c0c4c8;
 }
-.luna-nav.nav li.active .nav-second li a:hover {
+.DFNA-nav.nav li.active .nav-second li a:hover {
   color: #c0c4c8;
 }
-.luna-nav.nav li > a {
+.DFNA-nav.nav li > a {
   color: #848c94;
   display: block;
 }
-.luna-nav.nav li.active a {
+.DFNA-nav.nav li.active a {
   border-left: 6px solid #f6a821;
   padding-left: 19px;
   color: #c0c4c8;
 }
-.luna-nav.nav li a:hover,
-.luna-nav.nav li a:focus {
+.DFNA-nav.nav li a:hover,
+.DFNA-nav.nav li a:focus {
   color: #c0c4c8;
   background: inherit;
 }
-.luna-nav.nav .nav-category {
+.DFNA-nav.nav .nav-category {
   color: #FFFFFF;
   margin-top: 10px;
 }
-.luna-nav.nav .sub-nav-icon {
+.DFNA-nav.nav .sub-nav-icon {
   float: right;
   transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
